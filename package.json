@@ -1,0 +1,25 @@
+{
+  "name": "linkedinjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanleeallred/linkedinjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanleeallred/linkedinjs/issues"
+  },
+  "homepage": "https://github.com/ryanleeallred/linkedinjs",
+  "dependencies": {
+    "express": "^4.12.4",
+    "linkedin-scraper": "^1.0.1",
+    "getUserData": "^1.0.0"
+  }
+}
